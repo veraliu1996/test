@@ -5,8 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-private import
-private import
+private string dsecription
 
 public class CalculatorTest {
     private Calculator calculator;
